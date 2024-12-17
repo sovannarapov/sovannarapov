@@ -1,3 +1,6 @@
+# 💫 About Me:
+A passionate developer was adept in full-stack development, gained through hands-on experience in the tech company. Experienced in designing, developing, testing, and maintaining web applications using modern technologies. Successfully contributed to building web applications for various clients, demonstrating strong adaptability, collaboration, and problem-solving abilities. Committed to delivering high-quality work with a keen attention to detail, and time management skills. A friendly team player who loves to work hard, learn quickly, and help make projects successful!
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/SovannaraPov9) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sovannarapov) 
