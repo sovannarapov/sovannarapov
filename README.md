@@ -12,5 +12,5 @@ A passionate developer was adept in full-stack development, gained through hands
   <img height=200 src="https://github-readme-stats.vercel.app/api?username=sovannarapov&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&card_width=320" />
 </a>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=sovannarapov&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=donut">
-  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=sovannarapov&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact&card_width=340" />
+  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=sovannarapov&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact&card_width=330" />
 </a>
